@@ -3,3 +3,5 @@ Samaan Numair Soharwardi - BTech Year 3, CSE-3 MGIT
 Hobbies:
 1. Gaming
 2. Writing
+
+I am Samaan. I am working on Python and C++
